@@ -1,6 +1,6 @@
-# Miami landing page
+# Nothing landing page
 
--Click the link to see [DEMO](https://StsKushnir.github.io/Nothing_landing/)
+-Click the link to see [DEMO](https://StsKushnir.github.io/nothing_landing/)
 
 -[Here](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6802-245&t=6Kq9r1v4JFLD0X7d-0) you can find the design of landing page
 

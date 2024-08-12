@@ -145,8 +145,6 @@
 }
 
 .footer {
-  z-index: -1;
-
   &__list-item {
     &:not(:last-child) {
       margin-bottom: 24px;
